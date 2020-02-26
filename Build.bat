@@ -1,1 +1,1 @@
-echo set
+BD
